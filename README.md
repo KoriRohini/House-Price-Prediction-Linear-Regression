@@ -54,6 +54,3 @@ The **Linear Regression** algorithm from Scikit-Learn is used to predict house p
 
 The trained model predicts house prices based on the selected housing features.
 
-## Author
-
-**Rohini Kori**
